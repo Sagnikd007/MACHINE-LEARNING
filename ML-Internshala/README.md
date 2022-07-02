@@ -4,7 +4,7 @@
 
 
 
-### This repo contains complete code of Internshala Machine Learning training.
+### This repository contains complete code of Internshala Machine Learning training.
 
 **About Internshala training**
 
