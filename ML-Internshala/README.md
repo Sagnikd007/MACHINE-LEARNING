@@ -8,7 +8,7 @@
 
 **About Internshala training**
 
-It is a 6 week long hands on training on Machine Learning, they covers everything from basic and moves to advance level.You can open the ipynb files either in vs code,Jupyter notebook or colab whatever you like, csv files(data sets) is also provided.Happy Learning😊 
+It is a 6 week long hands on training on Machine Learning, they covers everything from basic and moves to advance level.You can open the ipynb files either in vs code,Jupyter notebook or colab whatever you like, csv files(data sets) is also provided.Will surely upload my rough works later ,till then happy learning😊Spread love❤️ 
 
 #### Table of content.
 
